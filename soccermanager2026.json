@@ -1,0 +1,50 @@
+{
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Lukas",
+      "Surname": "Schneider",
+      "ImageURL": "https://i.postimg.cc/J0SpSjLG/j-R5y-TAAAABkl-EQVQDAAU4i-WAMN20u-AAAAAEl-FTk-Su-Qm-CC.png",
+      "Position": "TW",
+      "Nationality": "Deutschland",
+      "ClubID": 1,
+      "Attributes": {
+        "Reflexe": 70,
+        "Reichweite": 68,
+        "Positionierung": 66,
+        "Torwarttechnik": 65,
+        "Spielaufbau": 60,
+        "Sprungkraft": 69,
+        "Kondition": 62,
+        "Mentalität": 65
+      },
+      "Contract": {
+        "Start": "2025-07-01",
+        "End": "2028-06-30",
+        "ReleaseClause": 10000000
+      },
+      "Development": {
+        "Potential": 85,
+        "GrowthRate": 0.5
+      },
+      "LoanStatus": "None"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "FC Bayern München",
+      "ShortName": "FCB",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4b/FC_Bayern_M%C3%BCnchen_Logo_2017.png",
+      "Stadium": "Allianz Arena",
+      "LeagueID": 1
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 1,
+      "Name": "Bundesliga",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bundesliga_Logo_2017.png"
+    }
+  ]
+}
